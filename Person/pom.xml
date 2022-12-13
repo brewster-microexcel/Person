@@ -5,7 +5,7 @@
   <version>0.0.1-SNAPSHOT</version>
   <packaging>war</packaging>
   <properties>
-		<cxf.version>3.2.8</cxf.version>
+		<cxf.version>3.4.10</cxf.version>
 		<httpclient.version>3.1</httpclient.version>
 		<jax.ws.rs>2.1.1</jax.ws.rs>
 		<springmvc>4.3.16.RELEASE</springmvc>
